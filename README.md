@@ -54,4 +54,6 @@ https://github.com/user-attachments/assets/57cea508-395e-4937-9fcf-cf633af9c084
 * 🌧 Weather effects (rain, snow)
 
 
+⭐ Show Your Support
 
+If you like this project, give it a ⭐ on GitHub!
